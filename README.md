@@ -1,16 +1,14 @@
-<!-- Profile README for https://github.com/Tarunrbt -->
-
 <div align="center">
 
 # Tarun Kumar Saxena
 
-### HSE Professional · HSE Technology · AI Development · Independent Research
+### HSE Manager → HSE Technology Builder
 
-**17+ years of experience in industrial safety, now building practical digital tools and exploring AI-driven solutions.**
+**17+ years in EPC, oil & gas, nuclear and industrial projects. Now building AI-assisted safety tools.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tarunrbt-181717?style=for-the-badge&logo=github)](https://github.com/Tarunrbt)
-[![Python](https://img.shields.io/badge/Python-Learning%20%26%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HSE](https://img.shields.io/badge/Focus-Industrial%20HSE-orange?style=for-the-badge)](https://github.com/Tarunrbt)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 </div>
 
@@ -18,64 +16,40 @@
 
 ## About
 
-I am an HSE professional with **17+ years of experience** across industrial and EPC environments. Alongside my safety work, I develop and study software projects focused on HSE digitization, AI-assisted workflows, automation, and technical research.
+I manage HSE on large industrial and EPC projects, and I build software that fits how site safety actually works: inspections, risk assessments, compliance checks and reporting.
 
-My goal is to connect practical site-safety experience with useful, testable technology.
-
-## Areas of Focus
-
-| Area | Current interests |
-|---|---|
-| **HSE Technology** | Digital safety workflows, EPC documentation, inspections, risk assessments and reporting |
-| **AI Development** | Python applications, multi-agent workflows, evaluation and validation |
-| **Software Engineering** | APIs, testing, Git, automation and project documentation |
-| **Research** | Reinforcement learning, cryptography, blockchain fundamentals and scientific computing |
+Site experience decides *what* to build. Testing and verification decide *whether it works*.
 
 ## Featured Projects
 
-### 🦺 [Shield EPC V0](https://github.com/Tarunrbt/Shield-EPC-V0)
-HSE technology project exploring digital safety workflows and AI-assisted tools for EPC environments. Includes a FastAPI backend and multi-agent pipeline work. **Under development.**
+| Project | What it is | Stack |
+|---|---|---|
+| 🦺 **[Shield EPC V0](https://github.com/Tarunrbt/Shield-EPC-V0)** | Multi-agent AI safety backend for EPC projects: orchestrator plus specialised agents. *Under development.* | Python, FastAPI |
+| 🌌 **[MOSGM Theory](https://github.com/Tarunrbt/MOSGM-Theory)** | Independent, reproducible research program on a modified-gravity framework. | Python, scientific computing |
+| 🌱 **[Smart Agriculture Platform](https://github.com/Tarunrbt/smart-agriculture-platform)** | IoT platform: ESP32, sensors, automation and data analytics. | ESP32, IoT |
+| 🚀 **[LunarLander RL Research](https://github.com/Tarunrbt/LunarLander-RL-Research)** | Reinforcement-learning experiments with code inspection and debugging. | Python |
+| ₿ **[Bitcoin Research](https://github.com/Tarunrbt/Bitcoin-Research)** | SHA-256 and Proof-of-Work experiments with verification and statistical scaling trials. | Python |
 
-### ₿ [Bitcoin Research](https://github.com/Tarunrbt/Bitcoin-Research)
-Educational experiments covering SHA-256 hashing and Proof-of-Work mining, including verification and statistical scaling trials.
+More: [Project Portfolio](https://github.com/Tarunrbt/My-Project-Portfolio)
 
-### 🚀 [LunarLander RL Research](https://github.com/Tarunrbt/LunarLander-RL-Research)
-Reinforcement-learning and simulation research. Current focus: code inspection, testing and debugging.
+## How I Work
 
-### 🌌 [MOSGM Theory](https://github.com/Tarunrbt/MOSGM-Theory)
-Independent theoretical physics research. See the repository for the model scope, methods and current evidence.
+- **Domain first:** features come from real site problems, not tech demos.
+- **Verify everything:** AI output goes through multi-stage review before I trust it.
+- **Reproducible:** experiments are documented so others can re-run them.
 
-### 🌱 [Smart Agriculture Platform](https://github.com/Tarunrbt/smart-agriculture-platform)
-A technology project exploring smart agriculture and connected systems.
-
-### 📚 [My Project Portfolio](https://github.com/Tarunrbt/My-Project-Portfolio)
-Central index for selected projects, milestones and next steps.
-
-## Tools & Technologies
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=terminal&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-## What I'm Working Toward
-
-- Building practical HSE technology for industrial and EPC projects.
-- Improving AI workflow reliability through testing and evaluation.
-- Strengthening Python, software engineering and research skills.
-- Publishing clear, reproducible experiments and project documentation.
+**Domain:** Industrial HSE · EPC documentation · Risk assessment · Compliance · Safety digitization
 
 ## Connect
 
-- **GitHub:** [@Tarunrbt](https://github.com/Tarunrbt)
-- **Project Portfolio:** [My-Project-Portfolio](https://github.com/Tarunrbt/My-Project-Portfolio)
-
----
-
-<div align="center">
-
-*Practical safety experience. Thoughtful engineering. Continuous research.*
-
-</div>
+- GitHub: [@Tarunrbt](https://github.com/Tarunrbt)
+- LinkedIn: [Tarun Saxena](https://www.linkedin.com/in/tarun-saxena-2b2309a3/)
+- Email: [tarunrbt@gmail.com](mailto:tarunrbt@gmail.com)
