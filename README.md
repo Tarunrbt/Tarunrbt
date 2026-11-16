@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/profile-banner.png" width="100%" alt="Tarun Saxena - HSE Technology and AI Development">
+
 # Tarun Kumar Saxena
 
 ### HSE Manager → HSE Technology Builder
